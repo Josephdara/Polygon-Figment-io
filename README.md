@@ -7,3 +7,4 @@ My jottings
  const address = provider.selectedAddress choosing an address
  const balance = provider.getBalance(address)  to get balance of an address
  formatting balance ethers.utils.formatUnits(balance, 18)
+	
